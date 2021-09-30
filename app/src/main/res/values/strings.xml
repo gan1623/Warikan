@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">割勘計算機</string>
+    <string name="calc_options">端数を処理する方法を選択して下さい</string>
+    <string name="calc_result_up">切り上げ</string>
+    <string name="calc_result_down">切り捨て</string>
+    <string name="calc_execute">計算実施</string>
+    <string name="calc_result">計算結果</string>
+    <string name="total_cost">支払総額</string>
+    <string name="count_of_people">人数</string>
+</resources>
